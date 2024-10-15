@@ -9,4 +9,4 @@ Funcionamento da página na versão desktop
 
 Funcionamento da página mobile
 
-<img src="./images/Animação-responsivo.gif" alt="" width="60%">
+<img src="./images/Animação-responsivo.gif" alt="" width="40%">
